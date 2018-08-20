@@ -1,2 +1,3 @@
 rootProject.name = 'LibraryManagement'
+include 'test'
 
